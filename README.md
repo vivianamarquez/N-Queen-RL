@@ -1,4 +1,7 @@
 # N-Queen-RL
+
+<img src="queens.png">
+
 Solving the classical N Queen problem using Reinforcement Learning.
 
 - **Name**: Viviana Márquez
