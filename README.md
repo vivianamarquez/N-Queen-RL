@@ -1,6 +1,6 @@
 # N-Queen-RL
 
-<img src="queens.png", height=5>
+<img src="queens.png", height="5">
 
 Solving the classical N Queen problem using Reinforcement Learning.
 
