@@ -1,7 +1,4 @@
 # N-Queen-RL
-
-<img src="queens.png", height="5">
-
 Solving the classical N Queen problem using Reinforcement Learning.
 
 - **Name**: Viviana Márquez
@@ -13,3 +10,5 @@ Solving the classical N Queen problem using Reinforcement Learning.
         - Knight placement
         - Hybrid placement
 - **Working Code in GitHub**: [Here](https://nbviewer.jupyter.org/github/vivianamarquez/N-Queen-RL/blob/master/Queens%202019.ipynb)
+
+<img src="queens.png">
