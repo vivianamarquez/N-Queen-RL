@@ -1,5 +1,5 @@
 # N-Queen-RL
-Solving the classical N Queen problem using Reinforcement Learning.
+Solving the classical N Queens Problem using Reinforcement Learning.
 
 - **Name**: Viviana Márquez
 - **Research Question**: Can I make a RL agent learn how to find solutions to the n-queen problem?
