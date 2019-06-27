@@ -9,4 +9,5 @@ Solving the classical N Queen problem using Reinforcement Learning.
         - Sequential placement
         - Knight placement
         - Hybrid placement
-- **Working Code in GitHub**: [Here](https://nbviewer.jupyter.org/github/vivianamarquez/N-Queen-RL/blob/master/Queens%202019.ipynb)
+- **Working Code in GitHub**: [Here](https://nbviewer.jupyter.org/github/vivianamarquez/N-Queen-RL/blob/master/CODE%20-%20Queens%202019.ipynb)
+
